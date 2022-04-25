@@ -11,6 +11,8 @@
 
 ### *En este repositorio encontraras el ejecutable del juego Monster Hunter, con un reporte escrito que nos habla sobre la creacion de este y la implementacion de diferentes herramientas, y por ultimo encontramos un gameplay del video juego en donde se observa como funciona el juego y como jugarlo.*
 
+## *Para la descarga seguir las instrucciones que se encuentran en el Reporte, Apendice A
+
 ## Instrucciones de juego
 
 ### - Te puedes mover hacia la derecha con la tecla "D".
