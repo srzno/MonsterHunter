@@ -12,8 +12,8 @@
 ### *En este repositorio encontraras el ejecutable del juego Monster Hunter, con un reporte escrito que nos habla sobre la creacion de este y la implementacion de diferentes herramientas, y por ultimo encontramos un gameplay del video juego en donde se observa como funciona el juego y como jugarlo.*
 
 ## *Para la descarga seguir las instrucciones que se encuentran en el Reporte, Apendice A*
-### >*Link al reporte* https://www.overleaf.com/read/hpckzpcdxwyk
-### >*Link al gameplay* https://youtu.be/t0xMZhg2hXE
+#### >*Link al reporte* https://www.overleaf.com/read/hpckzpcdxwyk
+#### >*Link al gameplay* https://youtu.be/t0xMZhg2hXE
 
 ## Instrucciones de juego
 
