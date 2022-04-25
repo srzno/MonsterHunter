@@ -1,5 +1,5 @@
 # MonsterHunter
-![MonsterHunter Logo](https://drive.google.com/uc?id=1pXt3MLJooBbd7hKpGd1k-6VC9FmaVWK4)
+![MonsterHunter Logo](https://drive.google.com/uc?id=1jdGnMrQl4bd3vbBf1mR2WTkmo0OLievr)
 
 ## Video Juego para la materia de Construcción de software y toma de decisiones
 ### Realizado por:
