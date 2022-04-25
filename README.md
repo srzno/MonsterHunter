@@ -1,5 +1,5 @@
 # MonsterHunter
-<img src="https://drive.google.com/file/d/1pXt3MLJooBbd7hKpGd1k-6VC9FmaVWK4/view" alt="Logo MonsterHunter"/>
+![MonsterHunter Logo](https://drive.google.com/uc?id=1pXt3MLJooBbd7hKpGd1k-6VC9FmaVWK4/view)
 
 ## Video Juego para la materia de Construcción de software y toma de decisiones
 ### Realizado por:
